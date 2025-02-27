@@ -6,19 +6,16 @@
   <a href="https://www.linkedin.com/in/kumar-ritesh-raushan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
   <a href="https://codeforces.com/profile/RiteshRaushan" title="Codeforces Profile"><img width="22" src="images/code-forces.svg"> Codeforces</a>
   <a href="https://www.instagram.com/itsriteshraushan/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a>
-  <a href="https://x.com/RiteshVerse" title="X Profile"><img width="22" src="images/x-social-media-logo-icon.svg"> X</a>
+  <a href="https://x.com/RiteshVerse" title="X Profile"><img width="22" src="images/x-social-media-logo-icon.svg"> X (Twitter)</a>
 </h5>
 <br>
 <p align="left">
   Hi, I'm Kumar Ritesh Raushan, A B.Tech student with skills in web development, Problem Solving, and machine learning. Enjoys building useful applications, solving problems, and working on creative projects.
   <br>
-  <br>
+  
   - 🎓 I’m currently persuing my B.Tech degree from VIT Bhopal University
-  <br>
   - 📚 Studying Computer Science and Engineering (AIML)
-  <br>
   - 💻 I love writing code and learn anything about it
-  <br>
   - 📫 How to reach me: <a href="mailto: rausahnritesh@gmail.com">rausahnritesh@gmail.com</a>
 </p>
 
@@ -56,6 +53,6 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a>
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh-raushan&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="ritesh-raushan" />
+      <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh-raushan&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="ritesh-raushan" />
     </a>
   </div>
