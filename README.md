@@ -44,7 +44,7 @@
 <p align=center>
   <div align=center>
     <p>
-      <img align="left" width=390 src="https://streak-stats.demolab.com?user=ritesh-raushan&theme=midnight-purple" alt="ritesh-raushan" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=ritesh-raushan&theme=midnight-purple&border_color=61dafb&hide_border=false" alt="ritesh-raushan" />
     </p>
     <a>
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ritesh-raushan&show_icons=true&theme=midnight-purple&border_color=61dafb&hide_border=false" alt="ritesh-raushan" />
@@ -53,6 +53,6 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a>
-      <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh-raushan&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="ritesh-raushan" />
+      <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh-raushan&show_icons=true&theme=midnight-purple&border_color=61dafb&locale=en&layout=compact" alt="ritesh-raushan" />
     </a>
   </div>
