@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ritesh-raushan&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh-raushan" /> </p>
 
-<h1 align="center">Hi there, I'm Ritesh 👋</h1>
+<h1 align="center">Hey there, I'm Ritesh 👋</h1>
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/kumar-ritesh-raushan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
